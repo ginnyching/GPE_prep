@@ -13,7 +13,7 @@ Find the salary by counting the appearances of each word in the dictionary.
 Using `map<string,int>` to store the dictionary.  
 Read in the discriptions word by word and sum up the salary at the same time.  
 
-## Technique  
+## Technique    
 - method_1  
 `vector<pair<>>` from \<vector\>  
 `str.find()`, `str.compare()`, and `str.erase()` from \<string\>  
