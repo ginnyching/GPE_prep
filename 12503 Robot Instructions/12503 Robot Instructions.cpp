@@ -9,11 +9,11 @@ int main() {
   cin>>T;
   while(T--){
     cin>>n;
+    cin.ignore();
     int pos=0;
     while(n--){
       string str;
-      while(str.length()==0)
-        getline(cin, str);
+      getline(cin, str);
       if(str.length()==4){
         move.push_back(-1);
         pos--;
