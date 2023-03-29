@@ -17,4 +17,13 @@ some practices for GPE
 - 11413 Fiil The Containers  
 - 10042 Smith Numbers  
 - 10131 Is Bigger Smarter?
-- 10080 Gopher II
+- 10080 Gopher II  
+
+## problems for test at 2023/03/29  
+- 10057 A mid-summer night's dreaam  
+- [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)   
+    source: leetcode  
+- 719 Glass Beads  
+- 10182 Bee Maja
+- 532 Dungeon Master  
+- 793 Network Connections  
