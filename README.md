@@ -20,7 +20,7 @@ some practices for GPE
 - 10080 Gopher II  
 
 ## problems for test at 2023/03/29  
-- 10057 A mid-summer night's dreaam  
+- 10057 A mid-summer night's dream  
 - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)   
     source: leetcode  
 - 719 Glass Beads  
