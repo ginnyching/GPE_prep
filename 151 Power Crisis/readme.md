@@ -11,7 +11,8 @@ Can be seen as finding the samllest **m** that makes **11** the last remaining i
 => **f(N-1,m)=11**  
 From the picture below, **f(10,3)** we can see that after first operation and reordering, the remaining problem is equivalent to **(f(9,3)+3)%10**.  
 Eventually, we will find that **f(N,m)=(f(N-1,m)+m)%N**, calling it recusively and we can get the last remaining f(N-1,m).  
-![9450853f3b4efd7b32e21e8523bc](9450853f3b4efd7b32e21e8523bc.png)
-![4f5a0674f05435e77f5c2f805ca1](4f5a0674f05435e77f5c2f805ca1.png)  
+ <img width="540" alt="9450853f3b4efd7b32e21e8523bc" src="https://user-images.githubusercontent.com/71360064/231338984-586933a2-cd45-47e6-9307-5cca504ad01b.png">
+<img width="540" alt="4f5a0674f05435e77f5c2f805ca1" src="https://user-images.githubusercontent.com/71360064/231339006-d8eba7d3-e032-420e-9ae5-a1b4e617471d.png">
+pictures from https://www.readfog.com/a/1634186784902582272[https://www.readfog.com/a/1634186784902582272]
 ## Technique  
 none  
