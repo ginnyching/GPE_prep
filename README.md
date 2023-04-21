@@ -27,3 +27,11 @@ some practices for GPE
 - 10182 Bee Maja
 - 532 Dungeon Master  
 - 793 Network Connections  
+
+## problems for test at 2023/04/19  
+- 11057 Exact Sum  
+- 10415 Eb Alto Saxophone Player   
+- 10700 Camel Trading  
+- Workers In A Chemical Park  
+- 10605 Count The Trees   
+- 10024 Curling Up The Cube  
