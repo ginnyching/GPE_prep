@@ -35,3 +35,11 @@ some practices for GPE
 - Workers In A Chemical Park  
 - 10605 Count The Trees   
 - 10024 Curling Up The Cube  
+
+## problems for test at 2023/05/03  
+- 10912 Simple Minded Hashing  
+- 10295 Hay Points  
+- 10249 The Grand Dinner   
+- 10308 Roads In The North  
+- 10104 Euclid Problems  
+- Sudoku (As Good As Lee Hsien Loong)  
