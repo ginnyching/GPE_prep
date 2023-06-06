@@ -43,3 +43,11 @@ some practices for GPE
 - 10308 Roads In The North  
 - 10104 Euclid Problems  
 - Sudoku (As Good As Lee Hsien Loong)  
+
+## problems for test at 2023/06/05   
+- 10591 Happy Number  
+- 11286 Conformity  
+- 11001 Necklace
+- 839 Binary Tree Traversals
+- 10081 Tight Words
+- Solving Maze Problems
