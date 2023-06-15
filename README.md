@@ -51,3 +51,11 @@ some practices for GPE
 - 839 Binary Tree Traversals
 - 10081 Tight Words
 - Solving Maze Problems
+
+## problems for test at 2023/06/14  
+- 10189 Minesweeper
+- 10179 Irreducable Basic Fractions
+- 10000 Longest Paths
+- 11475 Extend to Palindrome  
+- 11063 B2-Sequence  
+- 10606 Opening Doors  
